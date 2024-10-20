@@ -5,7 +5,7 @@ I'm Andrea and I'm currently studying a degree in Computer Science at Universida
 📫 Email: andreabaest@gmail.com
 
 ## Skills
-I have knowledge of
+Knowledge in:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,ae)](https://skillicons.dev)
 
