@@ -7,5 +7,5 @@ I'm Andrea and I'm currently studying a degree in Computer Science at Universida
 ## Skills
 Knowledge in:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ae)](https://skillicons.dev)
 
