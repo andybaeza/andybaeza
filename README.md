@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Andrea and I'm currently studying a degree in Computer Science at Universidad Autonoma de Yucatan in Merida, Yucatan, Mexico.
+I'm Andrea and I'm currently pursuing a degree in Computer Science at Universidad Autonoma de Yucatan in Merida, Yucatan, Mexico.
 
 💬 Languages: English & Spanish                         
 📫 Email: andreabaest@gmail.com
